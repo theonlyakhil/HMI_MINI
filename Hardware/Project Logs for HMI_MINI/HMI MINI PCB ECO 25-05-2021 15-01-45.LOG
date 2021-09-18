@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=USB_N Pin=R10-1
+Added Pin To Net: NetName=USB_P Pin=R10-1
+Added Room: Name=HMI_MINI
