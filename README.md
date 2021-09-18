@@ -11,5 +11,7 @@ TOP VIEW
 BOTTOM VIEW 
 ![BOTTOM Layer](https://github.com/theonlyakhil/HMI_MINI/blob/main/Snaps/BottomView.png)
 
-ISO VIEW
 ![iso view](https://github.com/theonlyakhil/HMI_MINI/blob/main/Snaps/IsoView.png)
+
+Schematic and Design Files are available at Hardware Section in this repo
+
